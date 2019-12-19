@@ -1,0 +1,76 @@
+{
+    "name": "PeerReach",
+    "description": "Join the right conversations with the right people. We find the most relevant accounts for you.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1607-peerreach.jpg",
+    "tags": [
+        "api lifeycle",
+        "have api",
+        "netherlands",
+        "reputation",
+        "social",
+        "wine"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/peerreach\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "PeerReach",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1607-peerreach.jpg",
+            "humanURL": "http:\/\/peerreach.com",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/peerreach-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Base",
+            "url": "http:\/\/api.peerreach.com\/"
+        },
+        {
+            "type": "Blog",
+            "url": "http:\/\/blog.peerreach.com"
+        },
+        {
+            "type": "Blog RSS",
+            "url": "http:\/\/blog.peerreach.com\/feed\/"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "http:\/\/www.crunchbase.com\/company\/peerreach"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/peerreach"
+        },
+        {
+            "type": "Developers",
+            "url": "http:\/\/peerreach.com\/api\/overview"
+        },
+        {
+            "type": "Email",
+            "url": "info@peerreach.com"
+        },
+        {
+            "type": "Github",
+            "url": "https:\/\/github.com\/PeerReach"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/PeerReach"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/peerreach.com"
+        }
+    ]
+}
